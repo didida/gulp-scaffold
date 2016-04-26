@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+getBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  getBanks(function (data) {$/;"	function	line:49
+watchScroll	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  var watchScroll = function () {$/;"	function	line:59
+debounce	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function debounce(func, wait, immediate) {$/;"	function	line:74
+later	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^          var later = function() {$/;"	function	line:78
+bankSelectCallback	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function bankSelectCallback () {$/;"	function	line:89
+triggerGetCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function triggerGetCards () {$/;"	function	line:95
+getCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^    getCards({page: nowPage, bankcode: currentBank}, function (data) {$/;"	function	line:100
+changeSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function changeSelect ($this) {$/;"	function	line:111
+loading	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function loading () {$/;"	function	line:117
+loaded	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function loaded () {$/;"	function	line:122
+showSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function showSelect () {$/;"	function	line:127
+closeSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function closeSelect () {$/;"	function	line:131
+handleData	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function handleData (cards) {$/;"	function	line:143
+getBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function getBanks (callback) {$/;"	function	line:154
+renderBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function renderBanks (banks) {$/;"	function	line:166
+getCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function getCards (data, callback) {$/;"	function	line:181
+renderCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function renderCards(cards, isAdd) {$/;"	function	line:199

@@ -1,0 +1,254 @@
+logo-left-top-distance	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^$logo-left-top-distance: 32px;$/;"	function	line:1
+logo-left-distance	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^$logo-left-distance: 28px;$/;"	function	line:2
+logo-width-pc	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^$logo-width-pc: 130px;$/;"	function	line:3
+logo-height-pc	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^$logo-height-pc: 36px;$/;"	function	line:4
+.logo	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^.logo {$/;"	function	line:6
+span	/Users/xujiadong/Desktop/frontstage/src/sass/components/_logo.scss	/^  span {$/;"	function	line:16
+header-color	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$header-color: #fafafa;$/;"	function	line:2
+header-distance-side	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$header-distance-side: 28px;$/;"	function	line:3
+introduce-height	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$introduce-height: 88px;$/;"	function	line:6
+introduce-color	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$introduce-color: #616b7b;$/;"	function	line:7
+introduce-image-width	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$introduce-image-width: 920px;$/;"	function	line:8
+introduce-image-height	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$introduce-image-height: 60px;$/;"	function	line:9
+copyright-color	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$copyright-color: #4e5868;$/;"	function	line:11
+copyright-height	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$copyright-height: 70px;$/;"	function	line:12
+list-page-color	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$list-page-color: #f4f4f4;$/;"	function	line:15
+center-box-width	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$center-box-width: 960px;$/;"	function	line:16
+breakpoints	/Users/xujiadong/Desktop/frontstage/src/sass/common/_variables.scss	/^$breakpoints: (mobile: 1024px);$/;"	function	line:19
+.introduce	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^.introduce {$/;"	function	line:1
+.wrapper	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^  .wrapper {$/;"	function	line:3
+.center-img	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^  .center-img {$/;"	function	line:8
+.copyright	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^.copyright {$/;"	function	line:17
+span	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^  span {$/;"	function	line:23
+footer	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^footer {$/;"	function	line:29
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_footer.scss	/^  @include media("<mobile") {$/;"	function	line:30
+.list-header	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^.list-header {$/;"	function	line:1
+.logo	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^  .logo {$/;"	function	line:11
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^  @include media("<mobile") {$/;"	function	line:15
+.download-btn	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^.download-btn {$/;"	function	line:22
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^  &:hover {$/;"	function	line:36
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^  @include media("<mobile") {$/;"	function	line:40
+&:active	/Users/xujiadong/Desktop/frontstage/src/sass/components/_header.scss	/^    &:active {$/;"	function	line:54
+@media only screen and (max-width: 960px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 960px),$/;"	function	line:1
+only screen and (max-device-width:960px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:960px) {$/;"	function	line:2
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:3
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:4
+@media only screen and (max-width: 800px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 800px),$/;"	function	line:8
+only screen and (max-device-width:800px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:800px) {$/;"	function	line:9
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:10
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:11
+@media only screen and (max-width: 720px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 720px),$/;"	function	line:15
+only screen and (max-device-width:720px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:720px) {$/;"	function	line:16
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:17
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:18
+@media only screen and (max-width: 640px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 640px),$/;"	function	line:22
+only screen and (max-device-width:640px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:640px) {$/;"	function	line:23
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:24
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:25
+@media only screen and (max-width: 600px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 600px),$/;"	function	line:29
+only screen and (max-device-width:600px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:600px) {$/;"	function	line:30
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:31
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:32
+@media only screen and (max-width: 540px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 540px),$/;"	function	line:36
+only screen and (max-device-width:540px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:540px) {$/;"	function	line:37
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:38
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:39
+@media only screen and (max-width: 480px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 480px),$/;"	function	line:43
+only screen and (max-device-width:480px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:480px) {$/;"	function	line:44
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:45
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:46
+@media only screen and (max-width: 414px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 414px),$/;"	function	line:50
+only screen and (max-device-width:414px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:414px) {$/;"	function	line:51
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:52
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:53
+@media only screen and (max-width: 400px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 400px),$/;"	function	line:57
+only screen and (max-device-width:400px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:400px) {$/;"	function	line:58
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:59
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:60
+@media only screen and (max-width: 375px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 375px),$/;"	function	line:64
+only screen and (max-device-width:375px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:375px) {$/;"	function	line:65
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:66
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:67
+@media only screen and (max-width: 360px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 360px),$/;"	function	line:71
+only screen and (max-device-width:360px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:360px) {$/;"	function	line:72
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:73
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:74
+@media only screen and (max-width: 320px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 320px),$/;"	function	line:78
+only screen and (max-device-width:320px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:320px) {$/;"	function	line:79
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:80
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:81
+@media only screen and (max-width: 240px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^@media only screen and (max-width: 240px),$/;"	function	line:85
+only screen and (max-device-width:240px)	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^only screen and (max-device-width:240px) {$/;"	function	line:86
+html	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  html,$/;"	function	line:87
+body	/Users/xujiadong/Desktop/frontstage/src/sass/common/_responsive.scss	/^  body {$/;"	function	line:88
+.list-content	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.list-content {$/;"	function	line:1
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:5
+.cards-box	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.cards-box {$/;"	function	line:10
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:13
+.card-padding	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.card-padding {$/;"	function	line:17
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:21
+.card	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.card {$/;"	function	line:25
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:33
+img	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  img {$/;"	function	line:37
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^    @include media("<mobile") {$/;"	function	line:41
+h3	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  h3 {$/;"	function	line:46
+.title-line	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  .title-line {$/;"	function	line:53
+.apply-btn	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  .apply-btn {$/;"	function	line:61
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^    &:hover {$/;"	function	line:71
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  &:hover {$/;"	function	line:78
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:82
+&:active	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^    &:active {$/;"	function	line:85
+.label-box	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.label-box {$/;"	function	line:91
+.label-block	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.label-block {$/;"	function	line:98
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^  @include media("<mobile") {$/;"	function	line:101
+.label	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.label {$/;"	function	line:107
+.loading	/Users/xujiadong/Desktop/frontstage/src/sass/components/_list-content.scss	/^.loading {$/;"	function	line:116
+pc-center-width	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^$pc-center-width: 960px;$/;"	function	line:2
+a	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^a {$/;"	function	line:4
+.hide	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^.hide {$/;"	function	line:7
+.wrapper	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^.wrapper {$/;"	function	line:10
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^  @include media("<mobile") {$/;"	function	line:16
+.kor-mask-transition	/Users/xujiadong/Desktop/frontstage/src/sass/common/_base.scss	/^.kor-mask-transition {$/;"	function	line:20
+@mixin fill-view ()	/Users/xujiadong/Desktop/frontstage/src/sass/common/_common.scss	/^@mixin fill-view () {$/;"	function	line:2
+@mixin vertical-center ()	/Users/xujiadong/Desktop/frontstage/src/sass/common/_common.scss	/^@mixin vertical-center () {$/;"	function	line:12
+@mixin absolute-center ()	/Users/xujiadong/Desktop/frontstage/src/sass/common/_common.scss	/^@mixin absolute-center () {$/;"	function	line:20
+html	/Users/xujiadong/Desktop/frontstage/src/download.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/xujiadong/Desktop/frontstage/src/download.html	/^<head>$/;"	function	line:4
+meta	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <meta charset="UTF-8">$/;"	function	line:5
+meta	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:6
+title	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <title>下载页<\/title>$/;"	function	line:7
+link	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <link rel="stylesheet" href="\/css\/download.css">$/;"	function	line:8
+body	/Users/xujiadong/Desktop/frontstage/src/download.html	/^<body class="download-page">$/;"	function	line:11
+div	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <div class="top-background"><\/div>$/;"	function	line:12
+div	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <div class="bottom-background"><\/div>$/;"	function	line:13
+div	/Users/xujiadong/Desktop/frontstage/src/download.html	/^  <div class="wrapper">$/;"	function	line:14
+div	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <div class="background-img">$/;"	function	line:15
+a	/Users/xujiadong/Desktop/frontstage/src/download.html	/^      <a class="android-btn" href="">$/;"	function	line:16
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^        <span>Android<\/span>$/;"	function	line:17
+a	/Users/xujiadong/Desktop/frontstage/src/download.html	/^      <a class="ios-btn hide" href="">$/;"	function	line:19
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^        <span>iOS(暂时未发布)<\/span>$/;"	function	line:20
+div	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <div class="logo">$/;"	function	line:23
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^      <span>办卡神器<\/span>$/;"	function	line:24
+a	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <a href="" class="apply-btn">在线申请信用卡<\/a>$/;"	function	line:26
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <span class="medal medal-left-1"><\/span>$/;"	function	line:29
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <span class="medal medal-left-2"><\/span>$/;"	function	line:30
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <span class="medal medal-right-1"><\/span>$/;"	function	line:31
+span	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <span class="medal medal-right-2"><\/span>$/;"	function	line:32
+script	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <script src="http:\/\/apps.bdimg.com\/libs\/jquery\/2.1.4\/jquery.js"><\/script>$/;"	function	line:34
+script	/Users/xujiadong/Desktop/frontstage/src/download.html	/^    <script src="javascripts\/download.main.js"><\/script>$/;"	function	line:35
+pc-card-img-width	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$pc-card-img-width: 794px;$/;"	function	line:4
+pc-card-img-height	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$pc-card-img-height: 470px;$/;"	function	line:5
+apply-btn-top-distance	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$apply-btn-top-distance: 32px;$/;"	function	line:7
+apply-btn-right-distance	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$apply-btn-right-distance: 28px;$/;"	function	line:8
+apply-btn-width-pc	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$apply-btn-width-pc: 146px;$/;"	function	line:9
+apply-btn-height-pc	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$apply-btn-height-pc: 40px;$/;"	function	line:10
+pc-download-btn-width	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$pc-download-btn-width: 202px;$/;"	function	line:12
+pc-download-btn-height	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$pc-download-btn-height: 58px;$/;"	function	line:13
+mobile-download-btn-width	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$mobile-download-btn-width: 7.11rem;$/;"	function	line:15
+mobile-download-btn-height	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^$mobile-download-btn-height: 1.95rem;$/;"	function	line:16
+.download-page	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.download-page {$/;"	function	line:19
+.logo	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  .logo {$/;"	function	line:22
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    @include media("<mobile") {$/;"	function	line:23
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^      span {$/;"	function	line:33
+%background	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^%background {$/;"	function	line:43
+.top-background	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.top-background {$/;"	function	line:48
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:53
+.bottom-background	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.bottom-background {$/;"	function	line:57
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:62
+.background-img	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.background-img {$/;"	function	line:66
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:74
+.apply-btn	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.apply-btn {$/;"	function	line:81
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  &:hover {$/;"	function	line:94
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:98
+&:active	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    &:active {$/;"	function	line:115
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    span {$/;"	function	line:119
+.android-btn	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.android-btn {$/;"	function	line:127
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  &:hover {$/;"	function	line:138
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  span {$/;"	function	line:142
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:146
+&:active	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    &:active {$/;"	function	line:160
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    span {$/;"	function	line:164
+.ios-btn	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^.ios-btn {$/;"	function	line:172
+&.hide	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  &.hide {$/;"	function	line:184
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  span {$/;"	function	line:188
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^  @include media("<mobile") {$/;"	function	line:192
+&:active	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    &:active {$/;"	function	line:206
+span	/Users/xujiadong/Desktop/frontstage/src/sass/download.scss	/^    span {$/;"	function	line:210
+isWeiXin	/Users/xujiadong/Desktop/frontstage/src/javascripts/download.main.js	/^  function isWeiXin () {$/;"	function	line:20
+isAndroid	/Users/xujiadong/Desktop/frontstage/src/javascripts/download.main.js	/^  function isAndroid () {$/;"	function	line:34
+.bank-select	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.bank-select {$/;"	function	line:1
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  @include media("<mobile") {$/;"	function	line:10
+.selected-item	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.selected-item {$/;"	function	line:17
+span	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  span {$/;"	function	line:19
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^    @include media("<mobile") {$/;"	function	line:26
+.arrow	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  .arrow {$/;"	function	line:32
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  @include media("<mobile") {$/;"	function	line:42
+.bank-select-actionsheet	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.bank-select-actionsheet {$/;"	function	line:52
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  @include media("<mobile") {$/;"	function	line:66
+.bank-select-menu	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.bank-select-menu {$/;"	function	line:76
+.bank-select-item	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.bank-select-item {$/;"	function	line:81
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  @include media("<mobile") {$/;"	function	line:85
+&.active	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  &.active {$/;"	function	line:96
+&:hover	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  &:hover {$/;"	function	line:99
+.bank-select-action	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^.bank-select-action {$/;"	function	line:105
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  @include media("<mobile") {$/;"	function	line:109
+.bank-select-item	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  .bank-select-item {$/;"	function	line:113
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^    @include media("<mobile") {$/;"	function	line:114
+&.show	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^&.show {$/;"	function	line:122
+.kor-mask-transition	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  .kor-mask-transition {$/;"	function	line:123
+@include media("<mobile")	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^    @include media("<mobile") {$/;"	function	line:124
+.bank-select-actionsheet	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^  .bank-select-actionsheet {$/;"	function	line:129
+// .bank-select:hover	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^\/\/ .bank-select:hover {$/;"	function	line:135
+//   .bank-select-actionsheet	/Users/xujiadong/Desktop/frontstage/src/sass/components/_bank-select.scss	/^\/\/   .bank-select-actionsheet {$/;"	function	line:136
+html	/Users/xujiadong/Desktop/frontstage/src/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Users/xujiadong/Desktop/frontstage/src/index.html	/^<head>$/;"	function	line:3
+meta	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <meta charset="UTF-8">$/;"	function	line:4
+meta	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:5
+title	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <title>列表页<\/title>$/;"	function	line:6
+link	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <link rel="stylesheet" href="\/css\/main.css">$/;"	function	line:7
+body	/Users/xujiadong/Desktop/frontstage/src/index.html	/^<body>$/;"	function	line:9
+header	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <header class="list-header">$/;"	function	line:11
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^    <div class="wrapper">$/;"	function	line:12
+span	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <span class="logo"><\/span>$/;"	function	line:13
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <div class="bank-select">$/;"	function	line:14
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^        <div class="kor-mask-transition"><\/div>$/;"	function	line:15
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^        <div class="selected-item">$/;"	function	line:16
+span	/Users/xujiadong/Desktop/frontstage/src/index.html	/^          <span>$/;"	function	line:17
+i	/Users/xujiadong/Desktop/frontstage/src/index.html	/^            <i class="arrow"><\/i>$/;"	function	line:19
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^        <div class="bank-select-actionsheet">$/;"	function	line:22
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^          <div class="bank-select-menu">$/;"	function	line:23
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^            <div class="bank-select-item active" data-type="">全部银行<\/div>$/;"	function	line:24
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^          <div class="bank-select-action">$/;"	function	line:26
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^            <div class="bank-select-item bank-select-cancel">取消<\/div>$/;"	function	line:27
+a	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <a href="" class="download-btn">下载 APP<\/a>$/;"	function	line:31
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <div class="list-content">$/;"	function	line:35
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^    <div class="wrapper">$/;"	function	line:36
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <div class="cards-box"><\/div>$/;"	function	line:37
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^    <div class="loading">$/;"	function	line:39
+footer	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <footer>$/;"	function	line:44
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^    <div class="introduce">$/;"	function	line:45
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <div class="wrapper">$/;"	function	line:46
+img	/Users/xujiadong/Desktop/frontstage/src/index.html	/^        <img src="assets\/introduce.png" class="center-img">$/;"	function	line:47
+div	/Users/xujiadong/Desktop/frontstage/src/index.html	/^    <div class="copyright">$/;"	function	line:50
+span	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <span>沪ICP备15043205号<\/span>$/;"	function	line:51
+span	/Users/xujiadong/Desktop/frontstage/src/index.html	/^      <span>商务合作: marketing(at)billbear.cn<\/span>$/;"	function	line:52
+script	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <script src="http:\/\/apps.bdimg.com\/libs\/jquery\/2.1.4\/jquery.js"><\/script>$/;"	function	line:55
+script	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <script src="javascripts\/lib\/juicer-min.js"><\/script>$/;"	function	line:56
+script	/Users/xujiadong/Desktop/frontstage/src/index.html	/^  <script src="javascripts\/index.main.js"><\/script>$/;"	function	line:57
+getBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  getBanks(function (data) {$/;"	function	line:49
+watchScroll	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  var watchScroll = function () {$/;"	function	line:59
+debounce	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function debounce(func, wait, immediate) {$/;"	function	line:74
+later	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^          var later = function() {$/;"	function	line:78
+bankSelectCallback	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function bankSelectCallback () {$/;"	function	line:89
+triggerGetCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function triggerGetCards () {$/;"	function	line:95
+getCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^    getCards({page: nowPage, bankcode: currentBank}, function (data) {$/;"	function	line:100
+changeSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function changeSelect ($this) {$/;"	function	line:111
+loading	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function loading () {$/;"	function	line:117
+loaded	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function loaded () {$/;"	function	line:122
+showSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function showSelect () {$/;"	function	line:127
+closeSelect	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function closeSelect () {$/;"	function	line:131
+handleData	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function handleData (cards) {$/;"	function	line:143
+getBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function getBanks (callback) {$/;"	function	line:154
+renderBanks	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function renderBanks (banks) {$/;"	function	line:166
+getCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function getCards (data, callback) {$/;"	function	line:181
+renderCards	/Users/xujiadong/Desktop/frontstage/src/javascripts/index.main.js	/^  function renderCards(cards, isAdd) {$/;"	function	line:199

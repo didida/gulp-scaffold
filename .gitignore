@@ -1,10 +1,5 @@
 .DS_Store
-.tags
-.tags1
 node_modules/
-gulp/
 resources/
 npm-debug.log
-gulpfile.js
-package.json
 README.md
