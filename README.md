@@ -1,2 +1,2 @@
-# gulp-scaffold
-基于kokoro的gulp脚手架修改
+# scaffold
+自己用的脚手架
