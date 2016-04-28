@@ -1,3 +1,5 @@
+// js的压缩
+
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
 var config = require('../config').js;

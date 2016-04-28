@@ -1,3 +1,5 @@
+// SASS的编译。
+
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var px3rem = require('gulp-px3rem');

@@ -1,3 +1,5 @@
+// 图片压缩
+
 var gulp = require('gulp');
 var config = require('../config').images;
 var imagemin = require('imagemin');

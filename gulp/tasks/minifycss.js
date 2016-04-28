@@ -1,3 +1,5 @@
+// css的压缩
+
 var gulp = require('gulp');
 var cssmin = require('gulp-minify-css');
 var config = require('../config').sass;

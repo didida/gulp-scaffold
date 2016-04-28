@@ -1,3 +1,5 @@
+// 编译之前清空dist文件夹
+
 var gulp = require('gulp');
 var clean = require('gulp-clean');
 var config = require('../config').clean
