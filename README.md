@@ -18,11 +18,11 @@ This is Kokoro team scaffold
 │   ├─config.js #gulp配置的地址  
 │   ├─tasks     #放的是gulp配置  
 │   ├─util      # gulp的报错处理  
-│
+│  
 │src  #未编译前需要编写的文件存放  
 │   ├─assets     #编译前的图片或者其他乱七八糟的东西（需要自己创建一个文件夹，不然不会被编译，例如img）  
 │   ├─sass       #编译前的scss文件夹  
 │   ├─javascript #编译前的JS文件夹  
-│
+│  
 │gulpfile.js  #gulp配置文件  
 │package.json #项目依赖  
