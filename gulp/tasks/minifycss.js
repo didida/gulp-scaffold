@@ -2,7 +2,7 @@
 
 var gulp = require('gulp');
 var cssmin = require('gulp-minify-css');
-var config = require('../config').sass;
+var config = require('../config').css;
 
 gulp.task('cssmin', function () {
   return gulp.src(config.compile)

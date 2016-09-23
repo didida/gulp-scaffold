@@ -3,9 +3,9 @@ var dest = './dist';
 var staticPath = dest + '/static';
 
 module.exports = {
-  sass: {
-    all: src + '/sass/**/*.scss',
-    src: src + '/sass/*.scss',
+  css: {
+    all: src + '/css/**/*.css',
+    src: src + '/css/*.css',
     dest: staticPath + '/css',
     compile: staticPath + '/css/*.css',
     settings: {}

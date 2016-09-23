@@ -1,0 +1,6 @@
+@component app {
+  font-size: 19px;
+  @descendent title{
+    color: red;
+  }
+}
