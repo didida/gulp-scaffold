@@ -19,8 +19,8 @@ module.exports = {
     dest: staticPath + '/assets'
   },
   js: {
-    src: src + '/javascripts/**/**.js',
-    dest: staticPath + '/javascripts'
+    src: src + '/js/**/**.js',
+    dest: staticPath + '/js'
   },
   clean: {
     src: dest

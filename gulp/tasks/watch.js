@@ -21,7 +21,7 @@ gulp.task('watch', function () {
     }
   });
 
-  gulp.watch(config.css.all, ['css']);
+  gulp.watch(config.css.all, ['postcss']);
   gulp.watch(config.html.all, ['html']);
   gulp.watch(config.images.src, ['images']);
   gulp.watch(config.js.src, ['javascripts']);
